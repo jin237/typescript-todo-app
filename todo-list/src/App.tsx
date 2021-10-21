@@ -4,13 +4,10 @@ import { AddTodoForm } from './AddTodoForm';
 
 const initialTodos: Todo[] = [
   {
-    text: 'Walk the dog',
+    text: 'To Do name',
     complete: false,
   },
-  {
-    text: 'Write app',
-    complete: true,
-  },
+
 ];
 
 function App() {
