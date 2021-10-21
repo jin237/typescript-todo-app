@@ -1,0 +1,12 @@
+.top{
+    text-align: center;
+    color: blue;
+    font-size: 25pt;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.root{
+    width: 30%;
+    margin-left: 35%;
+    font-size: 20pt;
+}
